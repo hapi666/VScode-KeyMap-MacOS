@@ -11,6 +11,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 **`Command + W`** 关闭窗口  
 
 ### 基本
+---
 **`Command + X`** 剪切（未选中文本的情况下，剪切光标所在行） 
 
 **`Command + C`** 复制（未选中文本的情况下，复制光标所在行） 
@@ -75,6 +76,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 
 
 ### 多光标与选择
+---
 **`Option +`** 点击 插入多个光标 
 
 **`Command + Option + Up`** 向上插入光标 
@@ -111,6 +113,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 
 
 ### 查找替换
+---
 **`Command + F`** 查找 
 
 **`Command + Option + F`** 替换 
@@ -127,6 +130,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 
 
 ### 进阶
+---
 **`Ctrl + Space`** 打开建议 
 
 **`Command + Shift + Space`** 参数提示 
@@ -159,6 +163,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 
 
 ### 导航
+---
 **`Command + T`** 显示所有符号 
 
 **`Ctrl + G`** 跳转至某行 
@@ -183,6 +188,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 
 
 ### 编辑器管理
+---
 **`Command + W`** 关闭编辑器 
 
 **`Command + K F`** 关闭文件夹 
@@ -209,6 +215,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 
 
 ### 文件管理
+---
 **`Command + N`** 新建文件 
 
 **`Command + O`** 打开文件 
@@ -239,6 +246,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 
 
 ### 显示
+---
 **`Command + Ctrl + F`** 全屏、退出全屏 
 
 **`Command + Option + 1`** 切换编辑器分屏方式（横、竖） 
@@ -273,6 +281,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 
 
 ### 调试
+---
 **`F9`** 设置 或 取消断点 
 
 **`F5`** 开始 或 继续 
@@ -287,6 +296,7 @@ VScode快捷键（macOS）(https://www.cnblogs.com/informatics/p/8315339.html)
 
 
 ### 集成终端
+---
 **`Ctrl +`** 显示终端 Ctrl + Shift + 新建终端 
 
 **`Command + Up`** 向上滚动 
